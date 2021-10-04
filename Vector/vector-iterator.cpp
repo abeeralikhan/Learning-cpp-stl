@@ -18,7 +18,7 @@ void display(vector<int> &v) {
     } 
 }
 
-// v.begin() --returns beginning pointer
+// v.begin() --> returns beginning pointer
 // c.end() --> returns ending pointer
 
 int main() {
